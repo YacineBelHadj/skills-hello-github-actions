@@ -1,6 +1,0 @@
-name: Post welcome comment
-on:
-  pull_request: 
-    types: [openend]
-  permissions:
-    pull_requests: writes
